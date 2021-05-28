@@ -2,8 +2,9 @@
 
 ![](Resources/Citybikebaner.PNG)
 
+# Overview & Background
 
-In this module, you'll work with data visualization software called Tableau to present a business proposal for a bike-sharing company. First, you'll learn how to import, style, and portray data accurately. Then, you'll create worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
+In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company. First, you'll learn how to import, style, and portray data accurately. Then, you'll create worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
 What You Will Learn
 By the end of this module, you will be able to:
 •	Import data into Tableau.
@@ -11,8 +12,6 @@ By the end of this module, you will be able to:
 •	Use Tableau worksheets to display data in a professional way.
 •	Portray data accurately using Tableau dashboards.
 
-
-Background
 Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
 For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
@@ -28,6 +27,8 @@ This new assignment consists of two technical analysis deliverables and a writte
 Deliverable 1: Change Trip Duration to a Datetime Format
 Deliverable 2: Create Visualizations for the Trip Analysis
 Deliverable 3: Create a Story and Report for the Final Presentation
+
+#Results
 
 Deliverable 1: Change Trip Duration to a Datetime Format (20 points)
 Deliverable 1 Instructions
@@ -124,6 +125,20 @@ You will earn a perfect score for Deliverable 3 by completing all requirements b
 Structure, Organization, and Formatting (6 points)
 The written analysis has the following structure, organization, and formatting:
 
-Summary:
-
+# Summary:
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis
+
+In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company. I learned how to import, style, and portray data accurately. I created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
+
+In the Story we included multiples dashboards with the following analysis.
+- Trips by Gender by Weekday
+- Trips by Gender (Weekday Per Hour)
+- Checkout times by Gender 
+- Checkout times by User
+- Trips by Weekday per hour
+- Agugust Peak Hours 
+- Top Starting Locations 
+
+
+
+
