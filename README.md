@@ -138,14 +138,18 @@ In the Story we included multiples dashboards with the following analysis.
 - Trips by Weekday per hour
 - Agugust Peak Hours 
 - Top Starting Locations 
-
-
+-
+Below you can see other visualizations with recommendations. 
+- We can increase the number of female subscribers as the majority of the subscribers are male. 
+- There is an opportunity to improve more usage in hours between 10 am and 3 pm to increase revenue. 
+- By adding more locations or make promotions to diverse starting locations as the Top Starting Locations will help to increase profits and reduce the more crowned places below you can see the Top Starting Locations
 
 ![](Resources/Additional.PNG)
 
 
+- By adding more locations or make promotions to diverse starting locations as the Top Starting Locations will help to increase profits and reduce the more crowned places
 
-
+![](Resources/Map.PNG)
 
 
 https://public.tableau.com/views/Des-MoinesNYCCitiBikeSharingChallenge/NYCCitiBikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link
